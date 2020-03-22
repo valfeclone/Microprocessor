@@ -1,0 +1,7 @@
+
+for windows
+
+
+nasm.exe -f obj hwmb.asm
+
+alink.exe -oPE hwmb.obj
